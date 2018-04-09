@@ -1,5 +1,5 @@
 
-#Stack
+# Stack
 
 ~~~
 #include <iostream>
