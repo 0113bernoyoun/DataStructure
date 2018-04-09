@@ -1,5 +1,6 @@
-#Used CPP
-
+```Used CPP
+```
+~~~
 #include <iostream>
 using namespace std;
 
@@ -126,3 +127,4 @@ int main()
 		}
 	}
 }
+~~~
