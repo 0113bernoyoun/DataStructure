@@ -1,5 +1,5 @@
-```Used CPP
-```
+# Queue
+###  Language : CPP
 ~~~
 #include <iostream>
 using namespace std;
